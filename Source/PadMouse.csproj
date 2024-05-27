@@ -2,11 +2,11 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Vortice.XInput" Version="2.1.19" />
+    <PackageReference Include="Vortice.XInput" Version="3.5.0" />
   </ItemGroup>
 
 </Project>
